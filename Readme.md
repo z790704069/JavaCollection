@@ -28,4 +28,4 @@ Java Collections Framework(JCF)
 
 * ArrayList & Vector
 
-> ArrayList非线程安全，Vector线程安全。非线程安全主要从性能角度考虑。
+> ArrayList非线程安全，Vector线程安全。非线程安全主要从性能角度考虑
